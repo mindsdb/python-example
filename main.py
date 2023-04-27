@@ -9,8 +9,8 @@ PASSWORD = st.secrets["password"]
 st.write("## English to French translation")
 st.write("Mindsdb python SDK example application: translate from English to French using mindsdb with t5-base hugginface model")
 
-st.write("[Example source code](https://github.com/mindsdb/mindsdb)")
-st.write("[Mindsdb python SDK documentation](https://github.com/mindsdb/mindsdb)")
+st.write("[Example source code](https://github.com/mindsdb/python-example)")
+st.write("[Mindsdb python SDK documentation](https://mindsdb.github.io/mindsdb_python_sdk/)")
 
 
 @st.cache_resource
